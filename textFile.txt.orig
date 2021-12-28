@@ -1,0 +1,8 @@
+just a simple txt file!!
+1
+2
+<<<<<<< HEAD
+2223 44 %%
+=======
+2223 44 ""
+>>>>>>> branch01
